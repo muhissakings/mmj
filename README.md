@@ -1,3 +1,3 @@
-# mmj
-#connection with African youth
+#Assignments 1
+
 #Setting Project
